@@ -1,4 +1,7 @@
 # Week-2-Con-Training
+## Slides
+
+## Resources
 ### Microcontroller
 https://www.youtube.com/watch?v=JwCTkm43CxQ
 
@@ -15,3 +18,9 @@ https://www.youtube.com/watch?v=b5BPcQUkHbI
 ### GPIO
 https://embetronicx.com/tutorials/tech_devices/understanding-the-microcontroller-gpio-gpio-working-explained/  
 https://embeddedinventor.com/9-essential-microcontroller-peripherals-explained/
+
+
+## Project
+https://drive.google.com/file/d/15_w8SPuJIPMh8HFvsuuRmoNXsf__4Kar/view?usp=sharing
+
+
