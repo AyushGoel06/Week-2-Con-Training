@@ -1,11 +1,11 @@
 # Week-2-Con-Training
 ## Slides
 https://canva.link/jsamiizlwv4qnfl
-### Contains good explanation for protocols and Sensors ecosystem and actuators also
 
 ## Resources
 ### PDFS
 https://drive.google.com/drive/folders/1nbLiFETQoUJCRK0OEwmNYm_0wrbXJeM0?usp=sharing
+### Contains good explanation for protocols and Sensors ecosystem and actuators also
 
 ### Microcontroller
 https://www.youtube.com/watch?v=JwCTkm43CxQ
