@@ -14,6 +14,7 @@ https://www.youtube.com/watch?v=JwCTkm43CxQ
 https://www.circuitbasics.com/basics-uart-communication/  
 https://www.circuitbasics.com/basics-of-the-spi-communication-protocol/  
 https://www.elprocus.com/usb-protocol/  
+https://www.youtube.com/watch?v=CAvawEcxoPU
 
 ### Memory 
 https://embeddedinventor.com/8-types-of-memory-every-embedded-engineer-should-know-about/  
