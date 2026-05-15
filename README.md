@@ -1,8 +1,10 @@
 # Week-2-Con-Training
 ## Slides
+https://canva.link/jsamiizlwv4qnfl
 
 ## Resources
 ### PDFS
+https://drive.google.com/drive/folders/1nbLiFETQoUJCRK0OEwmNYm_0wrbXJeM0?usp=sharing
 
 ### Microcontroller
 https://www.youtube.com/watch?v=JwCTkm43CxQ
